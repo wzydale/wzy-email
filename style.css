@@ -162,7 +162,7 @@ body {
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/bg.jpg) fixed no;
+		background: url(https://static.daletech.cn/email_bg.jpg) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
